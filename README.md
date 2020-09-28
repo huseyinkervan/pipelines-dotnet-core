@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/huseyinkervan/huseyinkervan/_apis/build/status/huseyinkervan.pipelines-dotnet-core%20(1)?branchName=master)](https://dev.azure.com/huseyinkervan/huseyinkervan/_build/latest?definitionId=12&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
